@@ -29,7 +29,7 @@ This project implements a basic **Bank Kata** following Test-Driven Development 
    git clone  https://github.com/Nouhaila-Zahraoui/bankkata_TDD_practice.git
 2. Navigate into the project directory:
    ```bash
-   cd bankkata_TDD_practice
+   cd Kata_Bank
 3. Build the project with Maven:
       ```bash
    mvn clean install
